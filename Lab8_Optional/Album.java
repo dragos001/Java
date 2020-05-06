@@ -1,6 +1,3 @@
-package com.company.lab8.compulsory;
-
-import com.github.javafaker.Faker;
 
 public class Album {
     private String albumName;
